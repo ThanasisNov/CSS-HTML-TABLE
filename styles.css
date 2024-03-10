@@ -1,0 +1,68 @@
+header{
+    text-align: center;
+    position: relative;
+    z-index: 0;
+    
+}
+
+.tag{
+    margin-top: 10px;
+  text-align: center;
+  color: rebeccapurple
+}
+
+table thead{
+   
+    background-color: plum;
+     word-spacing: 10px;
+     
+}
+table{
+    
+    display: table;
+    border-collapse: separate;
+    border:2px solid darkorchid;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tr{
+    text-align: center;
+    
+}
+
+table td {
+    text-align: left;
+    border-left: 1px solid white;
+    border-bottom: 1px solid rebeccapurple;
+    
+}
+table th {
+    border-bottom: 1px solid rebeccapurple;
+    border-left: 1px solid white;
+}
+html{
+    background-color: gainsboro;
+}
+
+.first
+{
+ padding-right:5px ;
+}
+.second{
+    padding-right:60px;
+}
+.third{
+    padding-right:200px;
+}
+
+table th  .tfoot{
+    border-bottom: 100px solid darkblue !important;
+   
+}
+
+
+.code {
+    font-family: monospace !important;
+    background-color: beige !important;
+    }
